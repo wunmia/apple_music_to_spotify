@@ -1,0 +1,3087 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2022-11-15T17:23:52Z</date>
+	<key>Application Version</key><string>12.12.6.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/C:/Users/wunmi/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>4A18E1D447E807B9</string>
+	<key>Tracks</key>
+	<dict>
+		<key>19513</key>
+		<dict>
+			<key>Track ID</key><integer>19513</integer>
+			<key>Name</key><string>Interstellar Delivery</string>
+			<key>Artist</key><string>LostiFi</string>
+			<key>Album Artist</key><string>LostiFi</string>
+			<key>Composer</key><string>Anna Levin</string>
+			<key>Album</key><string>Interstellar Delivery - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4820890</integer>
+			<key>Total Time</key><integer>129703</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2022-05-12T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Interstellar Delivery - Single</string>
+			<key>Sort Artist</key><string>LostiFi</string>
+			<key>Sort Name</key><string>Interstellar Delivery</string>
+			<key>Persistent ID</key><string>0FFC069C3F0DFB63</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>19574</key>
+		<dict>
+			<key>Track ID</key><integer>19574</integer>
+			<key>Name</key><string>Arrival</string>
+			<key>Artist</key><string>Lemeria</string>
+			<key>Album Artist</key><string>Lemeria</string>
+			<key>Composer</key><string>Alexander Maslov &#38; Volynkin Dmitry Iliich</string>
+			<key>Album</key><string>Arrival - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5161486</integer>
+			<key>Total Time</key><integer>138476</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2022-03-02T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Arrival - Single</string>
+			<key>Sort Artist</key><string>Lemeria</string>
+			<key>Sort Name</key><string>Arrival</string>
+			<key>Persistent ID</key><string>27D6F3B70003EC1F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>19595</key>
+		<dict>
+			<key>Track ID</key><integer>19595</integer>
+			<key>Name</key><string>Okay</string>
+			<key>Artist</key><string>Downtown Owl</string>
+			<key>Album Artist</key><string>Downtown Owl</string>
+			<key>Composer</key><string>Anna Levin</string>
+			<key>Album</key><string>Okay - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6210606</integer>
+			<key>Total Time</key><integer>172235</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2020-07-23T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Okay - Single</string>
+			<key>Sort Artist</key><string>Downtown Owl</string>
+			<key>Sort Name</key><string>Okay</string>
+			<key>Persistent ID</key><string>F6FCF3334FAE495C</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>19602</key>
+		<dict>
+			<key>Track ID</key><integer>19602</integer>
+			<key>Name</key><string>With You</string>
+			<key>Artist</key><string>Zmeyev</string>
+			<key>Album Artist</key><string>Zmeyev</string>
+			<key>Composer</key><string>Konstantin Baratashvili</string>
+			<key>Album</key><string>With You - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5508827</integer>
+			<key>Total Time</key><integer>147849</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2022-03-25T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>With You - Single</string>
+			<key>Sort Artist</key><string>Zmeyev</string>
+			<key>Sort Name</key><string>With You</string>
+			<key>Persistent ID</key><string>B6BA5EAC689EC093</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>19616</key>
+		<dict>
+			<key>Track ID</key><integer>19616</integer>
+			<key>Name</key><string>Midnight Sky</string>
+			<key>Artist</key><string>Otis Ubaka</string>
+			<key>Album Artist</key><string>Otis Ubaka</string>
+			<key>Composer</key><string>Otis Ubaka</string>
+			<key>Album</key><string>Midnight Sky - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5179630</integer>
+			<key>Total Time</key><integer>141200</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2022-04-11T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Midnight Sky - Single</string>
+			<key>Sort Artist</key><string>Otis Ubaka</string>
+			<key>Sort Name</key><string>Midnight Sky</string>
+			<key>Persistent ID</key><string>BDE2D4DD73A51173</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>19623</key>
+		<dict>
+			<key>Track ID</key><integer>19623</integer>
+			<key>Name</key><string>Pebbles</string>
+			<key>Artist</key><string>HoKø &#38; Lucie Cravero</string>
+			<key>Album Artist</key><string>HoKø &#38; Lucie Cravero</string>
+			<key>Composer</key><string>Lucie Cravero &#38; Théo Tiersen</string>
+			<key>Album</key><string>Pebbles - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6225235</integer>
+			<key>Total Time</key><integer>172343</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2022-01-25T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Pebbles - Single</string>
+			<key>Sort Artist</key><string>HoKø &#38; Lucie Cravero</string>
+			<key>Sort Name</key><string>Pebbles</string>
+			<key>Persistent ID</key><string>B455340E18C19042</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>19637</key>
+		<dict>
+			<key>Track ID</key><integer>19637</integer>
+			<key>Name</key><string>Flowers Rain</string>
+			<key>Artist</key><string>Zmeyev &#38; Screen Jazzmaster</string>
+			<key>Album Artist</key><string>Zmeyev &#38; Screen Jazzmaster</string>
+			<key>Composer</key><string>Yury Vasiliyv &#38; Konstantin Baratashvili</string>
+			<key>Album</key><string>Flowers Rain - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5132431</integer>
+			<key>Total Time</key><integer>133506</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2022-08-26T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Flowers Rain - Single</string>
+			<key>Sort Artist</key><string>Zmeyev &#38; Screen Jazzmaster</string>
+			<key>Sort Name</key><string>Flowers Rain</string>
+			<key>Persistent ID</key><string>2C71B5AE11ECCD41</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>19651</key>
+		<dict>
+			<key>Track ID</key><integer>19651</integer>
+			<key>Name</key><string>I Got U a Star</string>
+			<key>Artist</key><string>Enluv &#38; squeeda</string>
+			<key>Album Artist</key><string>Enluv &#38; squeeda</string>
+			<key>Composer</key><string>Brandon Hartt &#38; Scott Goldberg</string>
+			<key>Album</key><string>I Got U a Star - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6430228</integer>
+			<key>Total Time</key><integer>175588</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-08-26T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>I Got U a Star - Single</string>
+			<key>Sort Artist</key><string>Enluv &#38; squeeda</string>
+			<key>Sort Name</key><string>I Got U a Star</string>
+			<key>Persistent ID</key><string>9E9DE035B1C9B54E</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>19711</key>
+		<dict>
+			<key>Track ID</key><integer>19711</integer>
+			<key>Name</key><string>Fast Lane</string>
+			<key>Artist</key><string>LOKY &#38; Metic</string>
+			<key>Album Artist</key><string>LOKY &#38; Metic</string>
+			<key>Composer</key><string>Stefan Koller &#38; Jonathan Cheng Ma</string>
+			<key>Album</key><string>Fast Lane - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5421410</integer>
+			<key>Total Time</key><integer>141900</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2022-06-13T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Fast Lane - Single</string>
+			<key>Sort Artist</key><string>LOKY &#38; Metic</string>
+			<key>Sort Name</key><string>Fast Lane</string>
+			<key>Persistent ID</key><string>D888926C89E80E5D</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>19743</key>
+		<dict>
+			<key>Track ID</key><integer>19743</integer>
+			<key>Name</key><string>Awakening</string>
+			<key>Artist</key><string>Viktor Minsky, Zmeyev &#38; Screen Jazzmaster</string>
+			<key>Album Artist</key><string>Viktor Minsky, Zmeyev &#38; Screen Jazzmaster</string>
+			<key>Composer</key><string>Viktar Makhnovich, Konstantin Baratashvili &#38; Yury Vasiliyv</string>
+			<key>Album</key><string>Awakening - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5718176</integer>
+			<key>Total Time</key><integer>150533</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-11-19T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Awakening - Single</string>
+			<key>Sort Artist</key><string>Viktor Minsky, Zmeyev &#38; Screen Jazzmaster</string>
+			<key>Sort Name</key><string>Awakening</string>
+			<key>Persistent ID</key><string>8BE251D2C99CAAE3</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>19757</key>
+		<dict>
+			<key>Track ID</key><integer>19757</integer>
+			<key>Name</key><string>Sleepy</string>
+			<key>Artist</key><string>Ours Samplus</string>
+			<key>Album Artist</key><string>Ours Samplus</string>
+			<key>Composer</key><string>Guillaume Breton &#38; Alexis Layous</string>
+			<key>Album</key><string>Sleepy - Single</string>
+			<key>Genre</key><string>Instrumental</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5728113</integer>
+			<key>Total Time</key><integer>159980</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-04-07T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Sleepy - Single</string>
+			<key>Sort Artist</key><string>Ours Samplus</string>
+			<key>Sort Name</key><string>Sleepy</string>
+			<key>Persistent ID</key><string>039FA815A7A11176</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>19771</key>
+		<dict>
+			<key>Track ID</key><integer>19771</integer>
+			<key>Name</key><string>The Lighthouse</string>
+			<key>Artist</key><string>Guidolain beats &#38; brass.beats</string>
+			<key>Album Artist</key><string>Guidolain beats &#38; brass.beats</string>
+			<key>Composer</key><string>Guido José Nogueira &#38; Rodrigo Vazquez</string>
+			<key>Album</key><string>The Lighthouse - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6108193</integer>
+			<key>Total Time</key><integer>165600</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2022-03-23T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Lighthouse - Single</string>
+			<key>Sort Artist</key><string>Guidolain beats &#38; brass.beats</string>
+			<key>Sort Name</key><string>Lighthouse</string>
+			<key>Persistent ID</key><string>0C5CD25F2BE31D9E</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>19784</key>
+		<dict>
+			<key>Track ID</key><integer>19784</integer>
+			<key>Name</key><string>Warm Nights</string>
+			<key>Artist</key><string>Sineg</string>
+			<key>Album Artist</key><string>Sineg</string>
+			<key>Composer</key><string>Guliy Oleg Evgenevich</string>
+			<key>Album</key><string>Warm Nights - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4836388</integer>
+			<key>Total Time</key><integer>126200</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2022-09-09T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Warm Nights - Single</string>
+			<key>Sort Artist</key><string>Sineg</string>
+			<key>Sort Name</key><string>Warm Nights</string>
+			<key>Persistent ID</key><string>9C600A15DCE00894</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>19791</key>
+		<dict>
+			<key>Track ID</key><integer>19791</integer>
+			<key>Name</key><string>Moving On</string>
+			<key>Artist</key><string>Lenny B &#38; Fred Paci</string>
+			<key>Album Artist</key><string>Lenny B &#38; Fred Paci</string>
+			<key>Composer</key><string>Len Bröcker &#38; Frederic Paci</string>
+			<key>Album</key><string>Moving On - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5038623</integer>
+			<key>Total Time</key><integer>137967</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2022-03-11T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Moving On - Single</string>
+			<key>Sort Artist</key><string>Lenny B &#38; Fred Paci</string>
+			<key>Sort Name</key><string>Moving On</string>
+			<key>Persistent ID</key><string>B1DA82EFD3E2D2D5</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>19798</key>
+		<dict>
+			<key>Track ID</key><integer>19798</integer>
+			<key>Name</key><string>Night City</string>
+			<key>Artist</key><string>Kind Puppy</string>
+			<key>Album Artist</key><string>Kind Puppy</string>
+			<key>Composer</key><string>Ilya Volkov</string>
+			<key>Album</key><string>Night City - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5214740</integer>
+			<key>Total Time</key><integer>136329</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-04-29T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Night City - Single</string>
+			<key>Sort Artist</key><string>Kind Puppy</string>
+			<key>Sort Name</key><string>Night City</string>
+			<key>Persistent ID</key><string>CAE8965C3BD12F0D</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>19901</key>
+		<dict>
+			<key>Track ID</key><integer>19901</integer>
+			<key>Name</key><string>It Couldn't Be</string>
+			<key>Artist</key><string>Jav Cast &#38; Tatorita Sax</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Composer</key><string>Javier Alonso Fonseca &#38; Manuel Ignacio Rodríguez Riva</string>
+			<key>Album</key><string>Lazy Summer 2022</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5059468</integer>
+			<key>Total Time</key><integer>133633</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>24</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2022-08-01T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Lazy Summer 2022</string>
+			<key>Sort Artist</key><string>Jav Cast &#38; Tatorita Sax</string>
+			<key>Sort Name</key><string>It Couldn't Be</string>
+			<key>Persistent ID</key><string>5EB99C48C16EC57B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>19946</key>
+		<dict>
+			<key>Track ID</key><integer>19946</integer>
+			<key>Name</key><string>Soviet Jazz</string>
+			<key>Artist</key><string>RejSende</string>
+			<key>Album Artist</key><string>RejSende</string>
+			<key>Composer</key><string>Ilya Kostrov</string>
+			<key>Album</key><string>Soviet Jazz - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4566758</integer>
+			<key>Total Time</key><integer>122234</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-12-08T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Soviet Jazz - Single</string>
+			<key>Sort Artist</key><string>RejSende</string>
+			<key>Sort Name</key><string>Soviet Jazz</string>
+			<key>Persistent ID</key><string>54923A0A0DCD54E8</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>19959</key>
+		<dict>
+			<key>Track ID</key><integer>19959</integer>
+			<key>Name</key><string>Wake up Moon</string>
+			<key>Artist</key><string>Bogomolove</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Composer</key><string>Bogomolov Sergei Alexandrovich</string>
+			<key>Album</key><string>Lazy Summer 2022</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5314701</integer>
+			<key>Total Time</key><integer>141600</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>24</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2022-08-01T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Lazy Summer 2022</string>
+			<key>Sort Artist</key><string>Bogomolove</string>
+			<key>Sort Name</key><string>Wake up Moon</string>
+			<key>Persistent ID</key><string>D28EFE6417581D7E</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>19971</key>
+		<dict>
+			<key>Track ID</key><integer>19971</integer>
+			<key>Name</key><string>Free</string>
+			<key>Artist</key><string>nitsche &#38; Sleeping Dove</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Composer</key><string>Ralf Nitsche &#38; Jost Reitzug</string>
+			<key>Album</key><string>Lazy Summer 2022</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4999321</integer>
+			<key>Total Time</key><integer>134397</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>21</integer>
+			<key>Track Count</key><integer>24</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2022-07-31T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Lazy Summer 2022</string>
+			<key>Sort Artist</key><string>nitsche &#38; Sleeping Dove</string>
+			<key>Sort Name</key><string>Free</string>
+			<key>Persistent ID</key><string>59CB5B6F8B8569DE</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>19976</key>
+		<dict>
+			<key>Track ID</key><integer>19976</integer>
+			<key>Name</key><string>Cradle in Room</string>
+			<key>Artist</key><string>softy</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Composer</key><string>Hyun Soo Kang</string>
+			<key>Album</key><string>Lazy Summer 2022</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5744836</integer>
+			<key>Total Time</key><integer>151012</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>23</integer>
+			<key>Track Count</key><integer>24</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2022-08-01T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Lazy Summer 2022</string>
+			<key>Sort Artist</key><string>softy</string>
+			<key>Sort Name</key><string>Cradle in Room</string>
+			<key>Persistent ID</key><string>EF6CBDCE39C854A9</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>19987</key>
+		<dict>
+			<key>Track ID</key><integer>19987</integer>
+			<key>Name</key><string>Worth It</string>
+			<key>Artist</key><string>Dosi</string>
+			<key>Album Artist</key><string>Dosi</string>
+			<key>Composer</key><string>Benjamin Karp</string>
+			<key>Album</key><string>Worth It - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6171397</integer>
+			<key>Total Time</key><integer>164915</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2022-02-14T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Worth It - Single</string>
+			<key>Sort Artist</key><string>Dosi</string>
+			<key>Sort Name</key><string>Worth It</string>
+			<key>Persistent ID</key><string>90B367DCBB2D7FFC</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>19994</key>
+		<dict>
+			<key>Track ID</key><integer>19994</integer>
+			<key>Name</key><string>Evening Rest</string>
+			<key>Artist</key><string>Kind Puppy</string>
+			<key>Album Artist</key><string>Kind Puppy</string>
+			<key>Composer</key><string>Ilya Volkov</string>
+			<key>Album</key><string>Evening Rest - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5783015</integer>
+			<key>Total Time</key><integer>160324</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-12-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Evening Rest - Single</string>
+			<key>Sort Artist</key><string>Kind Puppy</string>
+			<key>Sort Name</key><string>Evening Rest</string>
+			<key>Persistent ID</key><string>5EFADF2AA06C8345</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>20019</key>
+		<dict>
+			<key>Track ID</key><integer>20019</integer>
+			<key>Name</key><string>Beach Breeze</string>
+			<key>Artist</key><string>Mr. Jello, Lenny B &#38; Fred Paci</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Composer</key><string>Mikah Hatcher, Len Bröcker &#38; Frederic Paci</string>
+			<key>Album</key><string>Lazy Summer 2022</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4846489</integer>
+			<key>Total Time</key><integer>129218</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>24</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2022-08-01T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Lazy Summer 2022</string>
+			<key>Sort Artist</key><string>Mr. Jello, Lenny B &#38; Fred Paci</string>
+			<key>Sort Name</key><string>Beach Breeze</string>
+			<key>Persistent ID</key><string>7127E322495B3F8F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>20024</key>
+		<dict>
+			<key>Track ID</key><integer>20024</integer>
+			<key>Name</key><string>Seville Boulevard</string>
+			<key>Artist</key><string>Shierro &#38; Ale Fillman</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Composer</key><string>Wesley Peters &#38; Philip Paul Amann</string>
+			<key>Album</key><string>Lazy Summer 2022</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5497534</integer>
+			<key>Total Time</key><integer>148592</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Track Count</key><integer>24</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2022-08-01T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Lazy Summer 2022</string>
+			<key>Sort Artist</key><string>Shierro &#38; Ale Fillman</string>
+			<key>Sort Name</key><string>Seville Boulevard</string>
+			<key>Persistent ID</key><string>2A4CD77748378A53</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>20042</key>
+		<dict>
+			<key>Track ID</key><integer>20042</integer>
+			<key>Name</key><string>Summer Melange</string>
+			<key>Artist</key><string>Mister Decaf</string>
+			<key>Album Artist</key><string>Mister Decaf</string>
+			<key>Composer</key><string>Patrick Leijte</string>
+			<key>Album</key><string>Summer Melange - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5236903</integer>
+			<key>Total Time</key><integer>140365</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2022-06-24T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Summer Melange - Single</string>
+			<key>Sort Artist</key><string>Mister Decaf</string>
+			<key>Sort Name</key><string>Summer Melange</string>
+			<key>Persistent ID</key><string>A533018DD1DA39E9</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>20049</key>
+		<dict>
+			<key>Track ID</key><integer>20049</integer>
+			<key>Name</key><string>Only Good Vibes</string>
+			<key>Artist</key><string>Mujo</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Composer</key><string>Király Brúnó</string>
+			<key>Album</key><string>Lazy Summer 2022</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4701666</integer>
+			<key>Total Time</key><integer>121833</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>20</integer>
+			<key>Track Count</key><integer>24</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2022-08-01T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Lazy Summer 2022</string>
+			<key>Sort Artist</key><string>Mujo</string>
+			<key>Sort Name</key><string>Only Good Vibes</string>
+			<key>Persistent ID</key><string>849DF64B8C465ECD</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>20066</key>
+		<dict>
+			<key>Track ID</key><integer>20066</integer>
+			<key>Name</key><string>Nectar</string>
+			<key>Artist</key><string>Fred Paci &#38; 77th Man</string>
+			<key>Album Artist</key><string>Fred Paci &#38; 77th Man</string>
+			<key>Composer</key><string>Frederic Paci &#38; Joshua Palit</string>
+			<key>Album</key><string>Nectar - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5494757</integer>
+			<key>Total Time</key><integer>156800</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2022-04-06T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Nectar - Single</string>
+			<key>Sort Artist</key><string>Fred Paci &#38; 77th Man</string>
+			<key>Sort Name</key><string>Nectar</string>
+			<key>Persistent ID</key><string>2007D3B92D3BF8B2</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>20164</key>
+		<dict>
+			<key>Track ID</key><integer>20164</integer>
+			<key>Name</key><string>Mellow Vibes</string>
+			<key>Artist</key><string>Zmeyev</string>
+			<key>Album Artist</key><string>Zmeyev</string>
+			<key>Composer</key><string>Konstantin Baratashvili</string>
+			<key>Album</key><string>Urban Melancholy</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>7149397</integer>
+			<key>Total Time</key><integer>192021</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2019-03-27T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Urban Melancholy</string>
+			<key>Sort Artist</key><string>Zmeyev</string>
+			<key>Sort Name</key><string>Mellow Vibes</string>
+			<key>Persistent ID</key><string>AD9B1AE888A90390</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>20176</key>
+		<dict>
+			<key>Track ID</key><integer>20176</integer>
+			<key>Name</key><string>Back to Home</string>
+			<key>Artist</key><string>Zmeyev</string>
+			<key>Album Artist</key><string>Zmeyev</string>
+			<key>Composer</key><string>Konstantin Baratashvili</string>
+			<key>Album</key><string>Urban Melancholy</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5672767</integer>
+			<key>Total Time</key><integer>156889</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2019-03-27T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Urban Melancholy</string>
+			<key>Sort Artist</key><string>Zmeyev</string>
+			<key>Sort Name</key><string>Back to Home</string>
+			<key>Persistent ID</key><string>DC46A11CC419869C</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>20181</key>
+		<dict>
+			<key>Track ID</key><integer>20181</integer>
+			<key>Name</key><string>Blossom</string>
+			<key>Artist</key><string>Zmeyev</string>
+			<key>Album Artist</key><string>Zmeyev</string>
+			<key>Composer</key><string>Konstantin Baratashvili</string>
+			<key>Album</key><string>Urban Melancholy</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6557809</integer>
+			<key>Total Time</key><integer>183162</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2019-03-27T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Urban Melancholy</string>
+			<key>Sort Artist</key><string>Zmeyev</string>
+			<key>Sort Name</key><string>Blossom</string>
+			<key>Persistent ID</key><string>DF45F3C93A8FC803</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>20192</key>
+		<dict>
+			<key>Track ID</key><integer>20192</integer>
+			<key>Name</key><string>Free Wandering</string>
+			<key>Artist</key><string>Zmeyev</string>
+			<key>Album Artist</key><string>Zmeyev</string>
+			<key>Composer</key><string>Konstantin Baratashvili</string>
+			<key>Album</key><string>Urban Melancholy</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6047231</integer>
+			<key>Total Time</key><integer>166165</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2019-03-27T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Urban Melancholy</string>
+			<key>Sort Artist</key><string>Zmeyev</string>
+			<key>Sort Name</key><string>Free Wandering</string>
+			<key>Persistent ID</key><string>D03891B2C6563D39</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>20240</key>
+		<dict>
+			<key>Track ID</key><integer>20240</integer>
+			<key>Name</key><string>Quiet Corner</string>
+			<key>Artist</key><string>softy</string>
+			<key>Album Artist</key><string>softy</string>
+			<key>Composer</key><string>Hyun Soo Kang</string>
+			<key>Album</key><string>Quiet Corner - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6098115</integer>
+			<key>Total Time</key><integer>168749</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2022-07-15T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Quiet Corner - Single</string>
+			<key>Sort Artist</key><string>softy</string>
+			<key>Sort Name</key><string>Quiet Corner</string>
+			<key>Persistent ID</key><string>10E6AEDCDE9BAA24</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>20247</key>
+		<dict>
+			<key>Track ID</key><integer>20247</integer>
+			<key>Name</key><string>Hip Hop Weekdays</string>
+			<key>Artist</key><string>Chill Beats Music &#38; Zmeyev</string>
+			<key>Album Artist</key><string>Chill Beats Music</string>
+			<key>Composer</key><string>Konstantin Baratashvili</string>
+			<key>Album</key><string>Jazzhop to Chill To</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4769081</integer>
+			<key>Total Time</key><integer>129042</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2020-10-09T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Jazzhop to Chill To</string>
+			<key>Sort Artist</key><string>Chill Beats Music &#38; Zmeyev</string>
+			<key>Sort Name</key><string>Hip Hop Weekdays</string>
+			<key>Persistent ID</key><string>A03F18C142C3AD80</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>20273</key>
+		<dict>
+			<key>Track ID</key><integer>20273</integer>
+			<key>Name</key><string>Last Time</string>
+			<key>Artist</key><string>Dosi</string>
+			<key>Album Artist</key><string>Dosi</string>
+			<key>Composer</key><string>Benjamin Karp</string>
+			<key>Album</key><string>Last Time - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5807643</integer>
+			<key>Total Time</key><integer>160465</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-11-26T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Last Time - Single</string>
+			<key>Sort Artist</key><string>Dosi</string>
+			<key>Sort Name</key><string>Last Time</string>
+			<key>Persistent ID</key><string>846C14895CD01F26</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>20296</key>
+		<dict>
+			<key>Track ID</key><integer>20296</integer>
+			<key>Name</key><string>Crystallized</string>
+			<key>Artist</key><string>Thyme Traveler &#38; Farnell Newton</string>
+			<key>Album Artist</key><string>Thyme Traveler &#38; Farnell Newton</string>
+			<key>Composer</key><string>Farnell Newton &#38; Asher Fulero</string>
+			<key>Album</key><string>Crystallized - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4507327</integer>
+			<key>Total Time</key><integer>120494</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-07-22T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Crystallized - Single</string>
+			<key>Sort Artist</key><string>Thyme Traveler &#38; Farnell Newton</string>
+			<key>Sort Name</key><string>Crystallized</string>
+			<key>Persistent ID</key><string>6B96966EAC63600D</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>20310</key>
+		<dict>
+			<key>Track ID</key><integer>20310</integer>
+			<key>Name</key><string>Crystal Jazz</string>
+			<key>Artist</key><string>Zmeyev</string>
+			<key>Album Artist</key><string>Zmeyev</string>
+			<key>Composer</key><string>Konstantin Baratashvili</string>
+			<key>Album</key><string>Crystal Jazz - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5665670</integer>
+			<key>Total Time</key><integer>152799</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2022-07-22T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Crystal Jazz - Single</string>
+			<key>Sort Artist</key><string>Zmeyev</string>
+			<key>Sort Name</key><string>Crystal Jazz</string>
+			<key>Persistent ID</key><string>E9A922112760A36C</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>20329</key>
+		<dict>
+			<key>Track ID</key><integer>20329</integer>
+			<key>Name</key><string>Freeze in Time</string>
+			<key>Artist</key><string>Worldtraveller, Otaam &#38; Adrian Planitz</string>
+			<key>Album Artist</key><string>Worldtraveller, Otaam &#38; Adrian Planitz</string>
+			<key>Composer</key><string>Adrian Planitz, Ingolf Schapke &#38; Samuel De Zaldua</string>
+			<key>Album</key><string>Freeze in Time - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4637382</integer>
+			<key>Total Time</key><integer>123633</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2022-09-28T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Freeze in Time - Single</string>
+			<key>Sort Artist</key><string>Worldtraveller, Otaam &#38; Adrian Planitz</string>
+			<key>Sort Name</key><string>Freeze in Time</string>
+			<key>Persistent ID</key><string>5BCACB8E66E93931</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>20355</key>
+		<dict>
+			<key>Track ID</key><integer>20355</integer>
+			<key>Name</key><string>Just Chillin'</string>
+			<key>Artist</key><string>Downtown Owl</string>
+			<key>Album Artist</key><string>Downtown Owl</string>
+			<key>Composer</key><string>Anna Levin</string>
+			<key>Album</key><string>Just Chillin' - Single</string>
+			<key>Genre</key><string>Instrumental</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5474585</integer>
+			<key>Total Time</key><integer>150361</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2020-02-13T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Just Chillin' - Single</string>
+			<key>Sort Artist</key><string>Downtown Owl</string>
+			<key>Sort Name</key><string>Just Chillin'</string>
+			<key>Persistent ID</key><string>15371303F220EEFF</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>20374</key>
+		<dict>
+			<key>Track ID</key><integer>20374</integer>
+			<key>Name</key><string>Skipping Stones</string>
+			<key>Artist</key><string>yani, LE MAZ &#38; Fred Paci</string>
+			<key>Album Artist</key><string>yani, LE MAZ &#38; Fred Paci</string>
+			<key>Composer</key><string>Len Bröcker, Mathias Kiefer &#38; Frederic Paci</string>
+			<key>Album</key><string>Skipping Stones - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5795580</integer>
+			<key>Total Time</key><integer>157666</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2022-07-29T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Skipping Stones - Single</string>
+			<key>Sort Artist</key><string>yani, LE MAZ &#38; Fred Paci</string>
+			<key>Sort Name</key><string>Skipping Stones</string>
+			<key>Persistent ID</key><string>C7E3CC3D572025E8</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>20393</key>
+		<dict>
+			<key>Track ID</key><integer>20393</integer>
+			<key>Name</key><string>Inner Warmth</string>
+			<key>Artist</key><string>Karmawin &#38; Whilst</string>
+			<key>Album Artist</key><string>Karmawin &#38; Whilst</string>
+			<key>Composer</key><string>Martin Demarest &#38; Oscar archer</string>
+			<key>Album</key><string>Inner Warmth - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5836801</integer>
+			<key>Total Time</key><integer>161549</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2022-01-19T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Inner Warmth - Single</string>
+			<key>Sort Artist</key><string>Karmawin &#38; Whilst</string>
+			<key>Sort Name</key><string>Inner Warmth</string>
+			<key>Persistent ID</key><string>1CD08F50849228B6</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>20407</key>
+		<dict>
+			<key>Track ID</key><integer>20407</integer>
+			<key>Name</key><string>Happy Monday</string>
+			<key>Artist</key><string>Goslow, Boom Mbappe &#38; VOLKHIN</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Composer</key><string>Konstantin Mushovets, Jak Melvin &#38; Egor Volkhin</string>
+			<key>Album</key><string>Autumn Woodlands 2022</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4866177</integer>
+			<key>Total Time</key><integer>129580</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>21</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2022-10-28T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Autumn Woodlands 2022</string>
+			<key>Sort Artist</key><string>Goslow, Boom Mbappe &#38; VOLKHIN</string>
+			<key>Sort Name</key><string>Happy Monday</string>
+			<key>Persistent ID</key><string>924361D3C70EE7CD</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>20413</key>
+		<dict>
+			<key>Track ID</key><integer>20413</integer>
+			<key>Name</key><string>Peppermint Tea</string>
+			<key>Artist</key><string>CMJ</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Composer</key><string>Conor Joyce</string>
+			<key>Album</key><string>Autumn Woodlands 2022</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4838812</integer>
+			<key>Total Time</key><integer>129680</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>21</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2022-10-28T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Autumn Woodlands 2022</string>
+			<key>Sort Artist</key><string>CMJ</string>
+			<key>Sort Name</key><string>Peppermint Tea</string>
+			<key>Persistent ID</key><string>9EDEB10013AEAB76</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>20418</key>
+		<dict>
+			<key>Track ID</key><integer>20418</integer>
+			<key>Name</key><string>Galactic Strings</string>
+			<key>Artist</key><string>LostiFi</string>
+			<key>Album Artist</key><string>LostiFi</string>
+			<key>Composer</key><string>Anna Levin</string>
+			<key>Album</key><string>Galactic Strings - Single</string>
+			<key>Genre</key><string>Instrumental</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5662688</integer>
+			<key>Total Time</key><integer>156258</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2020-02-20T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Galactic Strings - Single</string>
+			<key>Sort Artist</key><string>LostiFi</string>
+			<key>Sort Name</key><string>Galactic Strings</string>
+			<key>Persistent ID</key><string>8CE9D539C6709FC5</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>20424</key>
+		<dict>
+			<key>Track ID</key><integer>20424</integer>
+			<key>Name</key><string>Smoking in Cuba (feat. Mariussax)</string>
+			<key>Artist</key><string>after noon, 9ICK &#38; Hoffy Beats</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Composer</key><string>Oliver Patton, Nicolas Hamilton Stephensen, Jonas Hoffmann Buelund &#38; Marius Trapp</string>
+			<key>Album</key><string>Autumn Woodlands 2022</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6814877</integer>
+			<key>Total Time</key><integer>170359</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>21</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2022-10-28T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Autumn Woodlands 2022</string>
+			<key>Sort Artist</key><string>after noon, 9ICK &#38; Hoffy Beats</string>
+			<key>Sort Name</key><string>Smoking in Cuba (feat. Mariussax)</string>
+			<key>Persistent ID</key><string>4DC3FB43912EE8ED</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>20443</key>
+		<dict>
+			<key>Track ID</key><integer>20443</integer>
+			<key>Name</key><string>Late at Night</string>
+			<key>Artist</key><string>Sátyr &#38; cløse2u</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Composer</key><string>Lukas Stütz &#38; Michiel De Vleeschhouwer</string>
+			<key>Album</key><string>Autumn Woodlands 2022</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5900095</integer>
+			<key>Total Time</key><integer>154700</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>21</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2022-10-28T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Autumn Woodlands 2022</string>
+			<key>Sort Artist</key><string>Sátyr &#38; cløse2u</string>
+			<key>Sort Name</key><string>Late at Night</string>
+			<key>Persistent ID</key><string>80664D3199C0640E</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>20467</key>
+		<dict>
+			<key>Track ID</key><integer>20467</integer>
+			<key>Name</key><string>Moonlight</string>
+			<key>Artist</key><string>Ensidya</string>
+			<key>Album Artist</key><string>Ensidya</string>
+			<key>Composer</key><string>Malte Nordstrand &#38; Jacob Lindström</string>
+			<key>Album</key><string>Moonlight - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5074731</integer>
+			<key>Total Time</key><integer>139595</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2022-05-30T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Moonlight - Single</string>
+			<key>Sort Artist</key><string>Ensidya</string>
+			<key>Sort Name</key><string>Moonlight</string>
+			<key>Persistent ID</key><string>4D3CB5F8A62E3A3C</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>20486</key>
+		<dict>
+			<key>Track ID</key><integer>20486</integer>
+			<key>Name</key><string>Easy</string>
+			<key>Artist</key><string>Downtown Owl &#38; Chill Beats Music</string>
+			<key>Album Artist</key><string>Downtown Owl &#38; Chill Beats Music</string>
+			<key>Composer</key><string>Anna Levin</string>
+			<key>Album</key><string>Easy - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4836785</integer>
+			<key>Total Time</key><integer>131243</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-06-27T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Easy - Single</string>
+			<key>Sort Artist</key><string>Downtown Owl &#38; Chill Beats Music</string>
+			<key>Sort Name</key><string>Easy</string>
+			<key>Persistent ID</key><string>38C7B2CDF4360884</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>20493</key>
+		<dict>
+			<key>Track ID</key><integer>20493</integer>
+			<key>Name</key><string>Insomnia</string>
+			<key>Artist</key><string>D0d.</string>
+			<key>Album Artist</key><string>D0d.</string>
+			<key>Composer</key><string>Dorian Pinto</string>
+			<key>Album</key><string>Insomnia - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5416448</integer>
+			<key>Total Time</key><integer>141670</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2022-02-16T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Insomnia - Single</string>
+			<key>Sort Artist</key><string>D0d.</string>
+			<key>Sort Name</key><string>Insomnia</string>
+			<key>Persistent ID</key><string>E3E1F87F092886DF</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>20539</key>
+		<dict>
+			<key>Track ID</key><integer>20539</integer>
+			<key>Name</key><string>Kanari</string>
+			<key>Artist</key><string>Thomas Prime &#38; Moderator</string>
+			<key>Album Artist</key><string>Thomas Prime &#38; Moderator</string>
+			<key>Composer</key><string>Thomas Clements &#38; Alexandros Adam</string>
+			<key>Album</key><string>Kanari - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5636279</integer>
+			<key>Total Time</key><integer>153097</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2022-10-06T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Kanari - Single</string>
+			<key>Sort Artist</key><string>Thomas Prime &#38; Moderator</string>
+			<key>Sort Name</key><string>Kanari</string>
+			<key>Persistent ID</key><string>E5C09EE0EE1BA216</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>20559</key>
+		<dict>
+			<key>Track ID</key><integer>20559</integer>
+			<key>Name</key><string>Evening</string>
+			<key>Artist</key><string>Downtown Owl &#38; Chill Beats Music</string>
+			<key>Album Artist</key><string>Downtown Owl &#38; Chill Beats Music</string>
+			<key>Composer</key><string>Anna Levin</string>
+			<key>Album</key><string>Evening - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>3472313</integer>
+			<key>Total Time</key><integer>89952</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-06-10T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Evening - Single</string>
+			<key>Sort Artist</key><string>Downtown Owl &#38; Chill Beats Music</string>
+			<key>Sort Name</key><string>Evening</string>
+			<key>Persistent ID</key><string>0F4764D1B2DEBEB7</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>20565</key>
+		<dict>
+			<key>Track ID</key><integer>20565</integer>
+			<key>Name</key><string>Bottom of the Sea</string>
+			<key>Artist</key><string>Jav Cast &#38; brass.beats</string>
+			<key>Album Artist</key><string>Jav Cast &#38; brass.beats</string>
+			<key>Composer</key><string>Javier Alonso Fonseca &#38; Rodrigo Vazquez</string>
+			<key>Album</key><string>Bottom of the Sea - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5370785</integer>
+			<key>Total Time</key><integer>146257</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-11-03T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Bottom of the Sea - Single</string>
+			<key>Sort Artist</key><string>Jav Cast &#38; brass.beats</string>
+			<key>Sort Name</key><string>Bottom of the Sea</string>
+			<key>Persistent ID</key><string>98C9514BF95C09DD</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>20668</key>
+		<dict>
+			<key>Track ID</key><integer>20668</integer>
+			<key>Name</key><string>My Funtasy</string>
+			<key>Artist</key><string>Yestalgia &#38; Bad Room Producer</string>
+			<key>Album Artist</key><string>Yestalgia &#38; Bad Room Producer</string>
+			<key>Composer</key><string>Brian Massaka</string>
+			<key>Album</key><string>My Funtasy - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4984768</integer>
+			<key>Total Time</key><integer>136076</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2022-04-25T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>My Funtasy - Single</string>
+			<key>Sort Artist</key><string>Yestalgia &#38; Bad Room Producer</string>
+			<key>Sort Name</key><string>My Funtasy</string>
+			<key>Persistent ID</key><string>230DADF6D7B1D082</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>20705</key>
+		<dict>
+			<key>Track ID</key><integer>20705</integer>
+			<key>Name</key><string>Cold Brew Coffee</string>
+			<key>Artist</key><string>Yestalgia &#38; Bad Room Producer</string>
+			<key>Album Artist</key><string>Yestalgia &#38; Bad Room Producer</string>
+			<key>Composer</key><string>Brian Massaka</string>
+			<key>Album</key><string>My Funtasy - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5465122</integer>
+			<key>Total Time</key><integer>142796</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2022-04-25T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>My Funtasy - Single</string>
+			<key>Sort Artist</key><string>Yestalgia &#38; Bad Room Producer</string>
+			<key>Sort Name</key><string>Cold Brew Coffee</string>
+			<key>Persistent ID</key><string>57A4BC7375EE550D</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>20728</key>
+		<dict>
+			<key>Track ID</key><integer>20728</integer>
+			<key>Name</key><string>Night in the Neighborhood</string>
+			<key>Artist</key><string>m.sorlii &#38; Calminski</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Composer</key><string>Marcelo Manuel Sorli &#38; Jakub Janczur</string>
+			<key>Album</key><string>Autumn Woodlands 2022</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4908188</integer>
+			<key>Total Time</key><integer>130944</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>21</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2022-10-28T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Autumn Woodlands 2022</string>
+			<key>Sort Artist</key><string>m.sorlii &#38; Calminski</string>
+			<key>Sort Name</key><string>Night in the Neighborhood</string>
+			<key>Persistent ID</key><string>E0D83FD21E467B3F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>20733</key>
+		<dict>
+			<key>Track ID</key><integer>20733</integer>
+			<key>Name</key><string>Midnight Fireflies</string>
+			<key>Artist</key><string>The Floating Whale</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Composer</key><string>Patrick Leijte</string>
+			<key>Album</key><string>Autumn Woodlands 2022</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4996715</integer>
+			<key>Total Time</key><integer>134646</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>21</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2022-10-28T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Autumn Woodlands 2022</string>
+			<key>Sort Artist</key><string>Floating Whale</string>
+			<key>Sort Name</key><string>Midnight Fireflies</string>
+			<key>Persistent ID</key><string>9CD9A7AE00ECBA64</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>20750</key>
+		<dict>
+			<key>Track ID</key><integer>20750</integer>
+			<key>Name</key><string>Happy</string>
+			<key>Artist</key><string>Lemeria &#38; RejSende</string>
+			<key>Album Artist</key><string>Lemeria &#38; RejSende</string>
+			<key>Composer</key><string>Alexander Maslov, Volynkin Dmitry Iliich &#38; Ilya Kostrov</string>
+			<key>Album</key><string>Happy - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5482528</integer>
+			<key>Total Time</key><integer>149814</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-11-22T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Happy - Single</string>
+			<key>Sort Artist</key><string>Lemeria &#38; RejSende</string>
+			<key>Sort Name</key><string>Happy</string>
+			<key>Persistent ID</key><string>19B8627FFBA8A5C5</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>20757</key>
+		<dict>
+			<key>Track ID</key><integer>20757</integer>
+			<key>Name</key><string>Will You Fly with Me</string>
+			<key>Artist</key><string>Chill Beats Music &#38; Downtown Owl</string>
+			<key>Album Artist</key><string>Chill Beats Music &#38; Downtown Owl</string>
+			<key>Composer</key><string>Anna Levin</string>
+			<key>Album</key><string>Will You Fly with Me - Single</string>
+			<key>Genre</key><string>Instrumental</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6245024</integer>
+			<key>Total Time</key><integer>173494</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2019-11-29T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Will You Fly with Me - Single</string>
+			<key>Sort Artist</key><string>Chill Beats Music &#38; Downtown Owl</string>
+			<key>Sort Name</key><string>Will You Fly with Me</string>
+			<key>Persistent ID</key><string>51F8A01101828366</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>20764</key>
+		<dict>
+			<key>Track ID</key><integer>20764</integer>
+			<key>Name</key><string>Moonlight Vibes</string>
+			<key>Artist</key><string>Zmeyev</string>
+			<key>Album Artist</key><string>Zmeyev</string>
+			<key>Composer</key><string>Konstantin Baratashvili</string>
+			<key>Album</key><string>Moonlight Vibes - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5403262</integer>
+			<key>Total Time</key><integer>133500</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2020-07-05T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Moonlight Vibes - Single</string>
+			<key>Sort Artist</key><string>Zmeyev</string>
+			<key>Sort Name</key><string>Moonlight Vibes</string>
+			<key>Persistent ID</key><string>0C43251CCBE06FA6</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>20777</key>
+		<dict>
+			<key>Track ID</key><integer>20777</integer>
+			<key>Name</key><string>Longing for Rain</string>
+			<key>Artist</key><string>RejSende</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Composer</key><string>Ilya Kostrov</string>
+			<key>Album</key><string>Autumn Woodlands 2022</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4957379</integer>
+			<key>Total Time</key><integer>134082</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>18</integer>
+			<key>Track Count</key><integer>21</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2022-10-28T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Autumn Woodlands 2022</string>
+			<key>Sort Artist</key><string>RejSende</string>
+			<key>Sort Name</key><string>Longing for Rain</string>
+			<key>Persistent ID</key><string>EA691E2C03F18CFA</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>20794</key>
+		<dict>
+			<key>Track ID</key><integer>20794</integer>
+			<key>Name</key><string>Daydream</string>
+			<key>Artist</key><string>Lemeria</string>
+			<key>Album Artist</key><string>Lemeria</string>
+			<key>Composer</key><string>Alexander Maslov &#38; Volynkin Dmitry Iliich</string>
+			<key>Album</key><string>Daydream - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4765624</integer>
+			<key>Total Time</key><integer>128764</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2022-04-18T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Daydream - Single</string>
+			<key>Sort Artist</key><string>Lemeria</string>
+			<key>Sort Name</key><string>Daydream</string>
+			<key>Persistent ID</key><string>AFC94AB7C8BEC3BC</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>20800</key>
+		<dict>
+			<key>Track ID</key><integer>20800</integer>
+			<key>Name</key><string>Pointe Rouge</string>
+			<key>Artist</key><string>Socrab &#38; Inownlove</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Composer</key><string>Alexandre Barcos &#38; Egor Kutlugalliamov</string>
+			<key>Album</key><string>Autumn Woodlands 2022</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4755362</integer>
+			<key>Total Time</key><integer>128300</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>17</integer>
+			<key>Track Count</key><integer>21</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2022-10-28T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Autumn Woodlands 2022</string>
+			<key>Sort Artist</key><string>Socrab &#38; Inownlove</string>
+			<key>Sort Name</key><string>Pointe Rouge</string>
+			<key>Persistent ID</key><string>B67BE74ADEAC6756</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>20854</key>
+		<dict>
+			<key>Track ID</key><integer>20854</integer>
+			<key>Name</key><string>Cotton Candy</string>
+			<key>Artist</key><string>m.sorlii &#38; brass.beats</string>
+			<key>Album Artist</key><string>m.sorlii &#38; brass.beats</string>
+			<key>Composer</key><string>Marcelo Manuel Sorli &#38; Rodrigo Vazquez</string>
+			<key>Album</key><string>Cotton Candy - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5795530</integer>
+			<key>Total Time</key><integer>159300</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2022-04-15T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Cotton Candy - Single</string>
+			<key>Sort Artist</key><string>m.sorlii &#38; brass.beats</string>
+			<key>Sort Name</key><string>Cotton Candy</string>
+			<key>Persistent ID</key><string>4EF44DA97F779A63</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>20879</key>
+		<dict>
+			<key>Track ID</key><integer>20879</integer>
+			<key>Name</key><string>Evening Sunset</string>
+			<key>Artist</key><string>breakfast oats. &#38; Justin S Kinchen</string>
+			<key>Album Artist</key><string>breakfast oats. &#38; Justin S Kinchen</string>
+			<key>Composer</key><string>Jonathan Parra &#38; Justin S Kinchen</string>
+			<key>Album</key><string>Evening Sunset - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5768861</integer>
+			<key>Total Time</key><integer>153991</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2022-02-15T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Evening Sunset - Single</string>
+			<key>Sort Artist</key><string>breakfast oats. &#38; Justin S Kinchen</string>
+			<key>Sort Name</key><string>Evening Sunset</string>
+			<key>Persistent ID</key><string>B7543BDBFE1521A3</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>20955</key>
+		<dict>
+			<key>Track ID</key><integer>20955</integer>
+			<key>Name</key><string>Chilled Moments</string>
+			<key>Artist</key><string>Downtown Owl</string>
+			<key>Album Artist</key><string>Downtown Owl</string>
+			<key>Composer</key><string>Anna Levin</string>
+			<key>Album</key><string>Chilled Moments - Single</string>
+			<key>Genre</key><string>Instrumental</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>8450730</integer>
+			<key>Total Time</key><integer>237184</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2019-10-16T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Chilled Moments - Single</string>
+			<key>Sort Artist</key><string>Downtown Owl</string>
+			<key>Sort Name</key><string>Chilled Moments</string>
+			<key>Persistent ID</key><string>7FB98D751E707DBE</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>20986</key>
+		<dict>
+			<key>Track ID</key><integer>20986</integer>
+			<key>Name</key><string>Little Waves</string>
+			<key>Artist</key><string>Moderator &#38; Thomas Prime</string>
+			<key>Album Artist</key><string>Moderator &#38; Thomas Prime</string>
+			<key>Composer</key><string>Alexandros Adam &#38; Thomas Clements</string>
+			<key>Album</key><string>Little Waves - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6248498</integer>
+			<key>Total Time</key><integer>173400</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2022-04-22T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Little Waves - Single</string>
+			<key>Sort Artist</key><string>Moderator &#38; Thomas Prime</string>
+			<key>Sort Name</key><string>Little Waves</string>
+			<key>Persistent ID</key><string>BB43A0BF26E2B44A</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>21012</key>
+		<dict>
+			<key>Track ID</key><integer>21012</integer>
+			<key>Name</key><string>Vivid Nights</string>
+			<key>Artist</key><string>Pixie Dust &#38; Lenny B</string>
+			<key>Album Artist</key><string>Pixie Dust &#38; Lenny B</string>
+			<key>Composer</key><string>Jos Zegers &#38; Len Bröcker</string>
+			<key>Album</key><string>Vivid Nights - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5012593</integer>
+			<key>Total Time</key><integer>135896</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-12-13T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Vivid Nights - Single</string>
+			<key>Sort Artist</key><string>Pixie Dust &#38; Lenny B</string>
+			<key>Sort Name</key><string>Vivid Nights</string>
+			<key>Persistent ID</key><string>01A5C11E1914A176</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>21031</key>
+		<dict>
+			<key>Track ID</key><integer>21031</integer>
+			<key>Name</key><string>Loving Life</string>
+			<key>Artist</key><string>Otis Ubaka</string>
+			<key>Album Artist</key><string>Otis Ubaka</string>
+			<key>Composer</key><string>Otis Ubaka</string>
+			<key>Album</key><string>Loving Life - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5147839</integer>
+			<key>Total Time</key><integer>136500</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2022-03-16T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Loving Life - Single</string>
+			<key>Sort Artist</key><string>Otis Ubaka</string>
+			<key>Sort Name</key><string>Loving Life</string>
+			<key>Persistent ID</key><string>EB8DDEB60B4BD87A</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>21061</key>
+		<dict>
+			<key>Track ID</key><integer>21061</integer>
+			<key>Name</key><string>Passport</string>
+			<key>Artist</key><string>Foxy Fox, Hoffy Beats &#38; Guy Rickard</string>
+			<key>Album Artist</key><string>Foxy Fox, Hoffy Beats &#38; Guy Rickard</string>
+			<key>Composer</key><string>Guy Rickard, Andy van de Vossenberg &#38; Jonas Hoffmann Nedergaard</string>
+			<key>Album</key><string>Passport - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4586645</integer>
+			<key>Total Time</key><integer>113725</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2022-01-11T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Passport - Single</string>
+			<key>Sort Artist</key><string>Foxy Fox, Hoffy Beats &#38; Guy Rickard</string>
+			<key>Sort Name</key><string>Passport</string>
+			<key>Persistent ID</key><string>215FCD7C3C23E1C8</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>21074</key>
+		<dict>
+			<key>Track ID</key><integer>21074</integer>
+			<key>Name</key><string>Windfall</string>
+			<key>Artist</key><string>Kirikoukiri &#38; C4C</string>
+			<key>Album Artist</key><string>Kirikoukiri &#38; C4C</string>
+			<key>Composer</key><string>Otge Adrien &#38; Jessy Aymon Dettwiler</string>
+			<key>Album</key><string>Worthy - EP</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5012948</integer>
+			<key>Total Time</key><integer>139177</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>4</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-12-16T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Worthy - EP</string>
+			<key>Sort Artist</key><string>Kirikoukiri &#38; C4C</string>
+			<key>Sort Name</key><string>Windfall</string>
+			<key>Persistent ID</key><string>94318E146EAEAD8D</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>21087</key>
+		<dict>
+			<key>Track ID</key><integer>21087</integer>
+			<key>Name</key><string>Jazzhop Wonderland</string>
+			<key>Artist</key><string>Phlocalyst &#38; serifONE</string>
+			<key>Album Artist</key><string>Phlocalyst &#38; serifONE</string>
+			<key>Composer</key><string>Michiel De Vleeschhouwer &#38; Reike Treder</string>
+			<key>Album</key><string>Jazzhop Wonderland - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5183914</integer>
+			<key>Total Time</key><integer>142405</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2022-02-28T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Jazzhop Wonderland - Single</string>
+			<key>Sort Artist</key><string>Phlocalyst &#38; serifONE</string>
+			<key>Sort Name</key><string>Jazzhop Wonderland</string>
+			<key>Persistent ID</key><string>DE9B8A0A0958EBD6</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>21132</key>
+		<dict>
+			<key>Track ID</key><integer>21132</integer>
+			<key>Name</key><string>Elixir</string>
+			<key>Artist</key><string>Matchbox Youth &#38; Juliàn</string>
+			<key>Album Artist</key><string>Matchbox Youth &#38; Juliàn</string>
+			<key>Composer</key><string>Ian O'Connor &#38; Julien Grisard</string>
+			<key>Album</key><string>Elixir - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4903291</integer>
+			<key>Total Time</key><integer>135300</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2022-01-10T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Elixir - Single</string>
+			<key>Sort Artist</key><string>Matchbox Youth &#38; Juliàn</string>
+			<key>Sort Name</key><string>Elixir</string>
+			<key>Persistent ID</key><string>65900379DF7480CE</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>21170</key>
+		<dict>
+			<key>Track ID</key><integer>21170</integer>
+			<key>Name</key><string>Snowline</string>
+			<key>Artist</key><string>softy</string>
+			<key>Album Artist</key><string>softy</string>
+			<key>Composer</key><string>Hyun Soo Kang</string>
+			<key>Album</key><string>Snowline - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6180664</integer>
+			<key>Total Time</key><integer>174082</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2022-01-26T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Snowline - Single</string>
+			<key>Sort Artist</key><string>softy</string>
+			<key>Sort Name</key><string>Snowline</string>
+			<key>Persistent ID</key><string>F2E36E1E5B998C54</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>21182</key>
+		<dict>
+			<key>Track ID</key><integer>21182</integer>
+			<key>Name</key><string>Bike Ride</string>
+			<key>Artist</key><string>Guidolain beats, Rivizion &#38; Ben Jammin' Beats</string>
+			<key>Album Artist</key><string>Guidolain beats, Rivizion &#38; Ben Jammin' Beats</string>
+			<key>Composer</key><string>Guido José Nogueira, Ricardo Dueñas Vargas &#38; Benjamin Nicholas Kath</string>
+			<key>Album</key><string>Bike Ride - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5164670</integer>
+			<key>Total Time</key><integer>138140</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2022-10-19T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Bike Ride - Single</string>
+			<key>Sort Artist</key><string>Guidolain beats, Rivizion &#38; Ben Jammin' Beats</string>
+			<key>Sort Name</key><string>Bike Ride</string>
+			<key>Persistent ID</key><string>04B773C11F63A20C</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>21219</key>
+		<dict>
+			<key>Track ID</key><integer>21219</integer>
+			<key>Name</key><string>Long Road</string>
+			<key>Artist</key><string>Kind Puppy &#38; RejSende</string>
+			<key>Album Artist</key><string>Kind Puppy &#38; RejSende</string>
+			<key>Composer</key><string>Ilya Volkov &#38; Ilya Kostrov</string>
+			<key>Album</key><string>Long Road - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5403860</integer>
+			<key>Total Time</key><integer>145156</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2022-01-14T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Long Road - Single</string>
+			<key>Sort Artist</key><string>Kind Puppy &#38; RejSende</string>
+			<key>Sort Name</key><string>Long Road</string>
+			<key>Persistent ID</key><string>558BB7DD15D6A7BC</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>21226</key>
+		<dict>
+			<key>Track ID</key><integer>21226</integer>
+			<key>Name</key><string>Lazy Morning</string>
+			<key>Artist</key><string>brass.beats &#38; m.sorlii</string>
+			<key>Album Artist</key><string>brass.beats &#38; m.sorlii</string>
+			<key>Composer</key><string>Rodrigo Vazquez &#38; Marcelo Manuel Sorli</string>
+			<key>Album</key><string>Lazy Morning - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5150109</integer>
+			<key>Total Time</key><integer>135402</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-12-15T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Lazy Morning - Single</string>
+			<key>Sort Artist</key><string>brass.beats &#38; m.sorlii</string>
+			<key>Sort Name</key><string>Lazy Morning</string>
+			<key>Persistent ID</key><string>B4189DA17C529382</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>21233</key>
+		<dict>
+			<key>Track ID</key><integer>21233</integer>
+			<key>Name</key><string>Night Walk</string>
+			<key>Artist</key><string>brass.beats &#38; m.sorlii</string>
+			<key>Album Artist</key><string>brass.beats &#38; m.sorlii</string>
+			<key>Composer</key><string>Rodrigo Vazquez &#38; Marcelo Manuel Sorli</string>
+			<key>Album</key><string>Lazy Morning - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5567305</integer>
+			<key>Total Time</key><integer>151756</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-12-15T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Lazy Morning - Single</string>
+			<key>Sort Artist</key><string>brass.beats &#38; m.sorlii</string>
+			<key>Sort Name</key><string>Night Walk</string>
+			<key>Persistent ID</key><string>46AB9BD874417896</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>21244</key>
+		<dict>
+			<key>Track ID</key><integer>21244</integer>
+			<key>Name</key><string>Wake Me Up</string>
+			<key>Artist</key><string>brass.beats &#38; m.sorlii</string>
+			<key>Album Artist</key><string>brass.beats &#38; m.sorlii</string>
+			<key>Composer</key><string>Rodrigo Vazquez &#38; Marcelo Manuel Sorli</string>
+			<key>Album</key><string>Lazy Morning - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4699905</integer>
+			<key>Total Time</key><integer>123702</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-12-15T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Lazy Morning - Single</string>
+			<key>Sort Artist</key><string>brass.beats &#38; m.sorlii</string>
+			<key>Sort Name</key><string>Wake Me Up</string>
+			<key>Persistent ID</key><string>5F32D120E662A108</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>21249</key>
+		<dict>
+			<key>Track ID</key><integer>21249</integer>
+			<key>Name</key><string>Coral</string>
+			<key>Artist</key><string>softy</string>
+			<key>Album Artist</key><string>softy</string>
+			<key>Composer</key><string>Hyun Soo Kang</string>
+			<key>Album</key><string>Coral - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6762022</integer>
+			<key>Total Time</key><integer>189964</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-11-10T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Coral - Single</string>
+			<key>Sort Artist</key><string>softy</string>
+			<key>Sort Name</key><string>Coral</string>
+			<key>Persistent ID</key><string>B6A55FE60E735B7B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>21268</key>
+		<dict>
+			<key>Track ID</key><integer>21268</integer>
+			<key>Name</key><string>Paris</string>
+			<key>Artist</key><string>Pixie Dust, Lenny B &#38; Second Harbor</string>
+			<key>Album Artist</key><string>Pixie Dust, Lenny B &#38; Second Harbor</string>
+			<key>Composer</key><string>Jos Zegers, Len Bröcker &#38; Maximilian Erdelt</string>
+			<key>Album</key><string>Paris - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4857850</integer>
+			<key>Total Time</key><integer>131127</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2022-05-20T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Paris - Single</string>
+			<key>Sort Artist</key><string>Pixie Dust, Lenny B &#38; Second Harbor</string>
+			<key>Sort Name</key><string>Paris</string>
+			<key>Persistent ID</key><string>152262930476F7EF</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>21393</key>
+		<dict>
+			<key>Track ID</key><integer>21393</integer>
+			<key>Name</key><string>Desert World</string>
+			<key>Artist</key><string>LostiFi</string>
+			<key>Album Artist</key><string>LostiFi</string>
+			<key>Composer</key><string>Anna Levin</string>
+			<key>Album</key><string>Desert World - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4528679</integer>
+			<key>Total Time</key><integer>114760</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-05-25T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Desert World - Single</string>
+			<key>Sort Artist</key><string>LostiFi</string>
+			<key>Sort Name</key><string>Desert World</string>
+			<key>Persistent ID</key><string>8D5CF895FBABFA56</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>21441</key>
+		<dict>
+			<key>Track ID</key><integer>21441</integer>
+			<key>Name</key><string>Taming Moon</string>
+			<key>Artist</key><string>Moderator &#38; Etherealplcs</string>
+			<key>Album Artist</key><string>Moderator &#38; Etherealplcs</string>
+			<key>Composer</key><string>Alexandros Adam &#38; Vladyslav Zamerets</string>
+			<key>Album</key><string>Taming Moon - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5616014</integer>
+			<key>Total Time</key><integer>145795</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2022-05-26T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Taming Moon - Single</string>
+			<key>Sort Artist</key><string>Moderator &#38; Etherealplcs</string>
+			<key>Sort Name</key><string>Taming Moon</string>
+			<key>Persistent ID</key><string>E0DB24AD653B2D0B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>21454</key>
+		<dict>
+			<key>Track ID</key><integer>21454</integer>
+			<key>Name</key><string>Birdhouse View</string>
+			<key>Artist</key><string>Shierro</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Composer</key><string>Wesley Peters</string>
+			<key>Album</key><string>Mellow Dreams 3</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4163117</integer>
+			<key>Total Time</key><integer>112069</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-05-13T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Mellow Dreams 3</string>
+			<key>Sort Artist</key><string>Shierro</string>
+			<key>Sort Name</key><string>Birdhouse View</string>
+			<key>Persistent ID</key><string>A01973CE29C4C2A3</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>21460</key>
+		<dict>
+			<key>Track ID</key><integer>21460</integer>
+			<key>Name</key><string>Chill Café</string>
+			<key>Artist</key><string>RejSende</string>
+			<key>Album Artist</key><string>RejSende</string>
+			<key>Composer</key><string>Ilya Kostrov</string>
+			<key>Album</key><string>Chill Café - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5208261</integer>
+			<key>Total Time</key><integer>142117</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-08-02T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Chill Café - Single</string>
+			<key>Sort Artist</key><string>RejSende</string>
+			<key>Sort Name</key><string>Chill Café</string>
+			<key>Persistent ID</key><string>2C7B688915E08FB4</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>21490</key>
+		<dict>
+			<key>Track ID</key><integer>21490</integer>
+			<key>Name</key><string>Sweet Dreams</string>
+			<key>Artist</key><string>Maltex</string>
+			<key>Album Artist</key><string>Maltex</string>
+			<key>Composer</key><string>Vladislav Ruslanovich Hakimov</string>
+			<key>Album</key><string>Sweet Dreams - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5422110</integer>
+			<key>Total Time</key><integer>151209</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-07-15T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Sweet Dreams - Single</string>
+			<key>Sort Artist</key><string>Maltex</string>
+			<key>Sort Name</key><string>Sweet Dreams</string>
+			<key>Persistent ID</key><string>CB66DEAB591104F3</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>21534</key>
+		<dict>
+			<key>Track ID</key><integer>21534</integer>
+			<key>Name</key><string>Happy Days</string>
+			<key>Artist</key><string>Goslow, VOLKHIN &#38; Boom Mbappe</string>
+			<key>Album Artist</key><string>Goslow, VOLKHIN &#38; Boom Mbappe</string>
+			<key>Composer</key><string>Konstantin Mushovets, Egor Volkhin &#38; Jak Melvin</string>
+			<key>Album</key><string>Happy Days - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4754694</integer>
+			<key>Total Time</key><integer>118133</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2022-05-11T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Happy Days - Single</string>
+			<key>Sort Artist</key><string>Goslow, VOLKHIN &#38; Boom Mbappe</string>
+			<key>Sort Name</key><string>Happy Days</string>
+			<key>Persistent ID</key><string>F7AD965F827B9487</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>21541</key>
+		<dict>
+			<key>Track ID</key><integer>21541</integer>
+			<key>Name</key><string>Rain</string>
+			<key>Artist</key><string>breakfast oats. &#38; Justin S Kinchen</string>
+			<key>Album Artist</key><string>breakfast oats. &#38; Justin S Kinchen</string>
+			<key>Composer</key><string>Jonathan Parra &#38; Justin S Kinchen</string>
+			<key>Album</key><string>Rain - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4643390</integer>
+			<key>Total Time</key><integer>123353</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2022-03-04T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Rain - Single</string>
+			<key>Sort Artist</key><string>breakfast oats. &#38; Justin S Kinchen</string>
+			<key>Sort Name</key><string>Rain</string>
+			<key>Persistent ID</key><string>7A10164C7A7BEF1F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>21566</key>
+		<dict>
+			<key>Track ID</key><integer>21566</integer>
+			<key>Name</key><string>Jumps</string>
+			<key>Artist</key><string>Pixie Dust &#38; Drxnk</string>
+			<key>Album Artist</key><string>Pixie Dust &#38; Drxnk</string>
+			<key>Composer</key><string>Jos Zegers &#38; Michiel De Vleeschhouwer</string>
+			<key>Album</key><string>Jumps - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5117757</integer>
+			<key>Total Time</key><integer>140359</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-11-05T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Jumps - Single</string>
+			<key>Sort Artist</key><string>Pixie Dust &#38; Drxnk</string>
+			<key>Sort Name</key><string>Jumps</string>
+			<key>Persistent ID</key><string>49083ADF4DA95E46</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>21585</key>
+		<dict>
+			<key>Track ID</key><integer>21585</integer>
+			<key>Name</key><string>When I Meet You</string>
+			<key>Artist</key><string>RejSende</string>
+			<key>Album Artist</key><string>RejSende</string>
+			<key>Composer</key><string>Ilya Kostrov Alexeevich</string>
+			<key>Album</key><string>When I Meet You - Single</string>
+			<key>Genre</key><string>Instrumental</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>3945443</integer>
+			<key>Total Time</key><integer>103458</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-04-12T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>When I Meet You - Single</string>
+			<key>Sort Artist</key><string>RejSende</string>
+			<key>Sort Name</key><string>When I Meet You</string>
+			<key>Persistent ID</key><string>249D8B5AF6F4F62B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>21591</key>
+		<dict>
+			<key>Track ID</key><integer>21591</integer>
+			<key>Name</key><string>In the Morning</string>
+			<key>Artist</key><string>Coldgray</string>
+			<key>Album Artist</key><string>Coldgray</string>
+			<key>Composer</key><string>Alexander Maslov</string>
+			<key>Album</key><string>In the Morning - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5089221</integer>
+			<key>Total Time</key><integer>137552</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2022-05-23T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>In the Morning - Single</string>
+			<key>Sort Artist</key><string>Coldgray</string>
+			<key>Sort Name</key><string>In the Morning</string>
+			<key>Persistent ID</key><string>0B1E2268EDECD5D4</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>21598</key>
+		<dict>
+			<key>Track ID</key><integer>21598</integer>
+			<key>Name</key><string>Nostalgia</string>
+			<key>Artist</key><string>Coldgray</string>
+			<key>Album Artist</key><string>Coldgray</string>
+			<key>Composer</key><string>Alexander Maslov</string>
+			<key>Album</key><string>Nostalgia - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4864520</integer>
+			<key>Total Time</key><integer>130380</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2022-05-09T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Nostalgia - Single</string>
+			<key>Sort Artist</key><string>Coldgray</string>
+			<key>Sort Name</key><string>Nostalgia</string>
+			<key>Persistent ID</key><string>8DBFD1980251CF89</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>21622</key>
+		<dict>
+			<key>Track ID</key><integer>21622</integer>
+			<key>Name</key><string>Daydream at Night</string>
+			<key>Artist</key><string>Kid Kio &#38; Fred Paci</string>
+			<key>Album Artist</key><string>Kid Kio &#38; Fred Paci</string>
+			<key>Composer</key><string>Wesley Peters &#38; Frederic Paci</string>
+			<key>Album</key><string>Daydream at Night - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4062152</integer>
+			<key>Total Time</key><integer>104673</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2022-09-30T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Daydream at Night - Single</string>
+			<key>Sort Artist</key><string>Kid Kio &#38; Fred Paci</string>
+			<key>Sort Name</key><string>Daydream at Night</string>
+			<key>Persistent ID</key><string>25293ACBF392F79B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>21629</key>
+		<dict>
+			<key>Track ID</key><integer>21629</integer>
+			<key>Name</key><string>Blue Skies</string>
+			<key>Artist</key><string>Aoko &#38; brass.beats</string>
+			<key>Album Artist</key><string>Aoko &#38; brass.beats</string>
+			<key>Composer</key><string>Blais Antoine &#38; Rodrigo Vazquez</string>
+			<key>Album</key><string>Blue Skies - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>6168888</integer>
+			<key>Total Time</key><integer>156831</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2022-09-16T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Blue Skies - Single</string>
+			<key>Sort Artist</key><string>Aoko &#38; brass.beats</string>
+			<key>Sort Name</key><string>Blue Skies</string>
+			<key>Persistent ID</key><string>535B33DF3DBB7B80</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>21660</key>
+		<dict>
+			<key>Track ID</key><integer>21660</integer>
+			<key>Name</key><string>Lockdown Cafe</string>
+			<key>Artist</key><string>Oaty.</string>
+			<key>Album Artist</key><string>Various Artists</string>
+			<key>Composer</key><string>Angelo Emo</string>
+			<key>Album</key><string>Mellow Dreams 3</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5438245</integer>
+			<key>Total Time</key><integer>148207</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-05-13T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Mellow Dreams 3</string>
+			<key>Sort Artist</key><string>Oaty.</string>
+			<key>Sort Name</key><string>Lockdown Cafe</string>
+			<key>Persistent ID</key><string>E5DC6A7ACAAAA932</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>21671</key>
+		<dict>
+			<key>Track ID</key><integer>21671</integer>
+			<key>Name</key><string>Manhattan Jazz</string>
+			<key>Artist</key><string>RejSende</string>
+			<key>Album Artist</key><string>RejSende</string>
+			<key>Composer</key><string>Ilya Kostrov</string>
+			<key>Album</key><string>Manhattan Jazz - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>4630367</integer>
+			<key>Total Time</key><integer>124393</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2022-01-28T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Manhattan Jazz - Single</string>
+			<key>Sort Artist</key><string>RejSende</string>
+			<key>Sort Name</key><string>Manhattan Jazz</string>
+			<key>Persistent ID</key><string>355D533ED09D90DE</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+		<key>21677</key>
+		<dict>
+			<key>Track ID</key><integer>21677</integer>
+			<key>Name</key><string>One 4 Nanda</string>
+			<key>Artist</key><string>Phlocalyst &#38; Sátyr</string>
+			<key>Album Artist</key><string>Phlocalyst &#38; Sátyr</string>
+			<key>Composer</key><string>Michiel De Vleeschhouwer &#38; Lukas Stütz</string>
+			<key>Album</key><string>One 4 Nanda - Single</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>Apple Music AAC audio file</string>
+			<key>Size</key><integer>5660109</integer>
+			<key>Total Time</key><integer>152300</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2021-06-25T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>One 4 Nanda - Single</string>
+			<key>Sort Artist</key><string>Phlocalyst &#38; Sátyr</string>
+			<key>Sort Name</key><string>One 4 Nanda</string>
+			<key>Persistent ID</key><string>6A009333DD292CC8</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+			<key>Playlist Only</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Chill Jazz Vibes 🎷 melodic jazz beats &#38; jazzhop</string>
+			<key>Description</key><string>For fans of chilled &#38; jazzy hip-hop vibes. Here's our special assortment of fesh Jazzhop tunes. Updated regularly.</string>
+			<key>Playlist ID</key><integer>22120</integer>
+			<key>Playlist Persistent ID</key><string>FC727663E74BF61D</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>20733</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20407</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20800</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20424</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20539</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21182</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20728</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20777</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20413</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20443</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21629</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20049</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19595</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21132</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21566</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19798</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20418</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19623</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21454</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20019</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20181</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19791</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19946</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20565</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20355</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19574</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19757</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19901</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19616</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20879</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19711</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20310</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21460</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19994</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21598</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20273</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21226</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21541</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19743</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21591</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21061</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19959</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20024</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21268</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20393</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20794</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21219</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21585</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19976</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20668</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21671</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19651</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20374</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19971</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20066</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20042</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20247</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21490</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21534</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20486</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20192</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19637</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21244</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20467</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20329</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21233</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20705</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21249</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20240</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21170</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20559</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21087</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21031</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21393</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19602</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21622</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19771</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21074</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20764</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20176</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19987</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20164</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20955</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21012</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19784</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21677</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20854</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20757</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21441</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20750</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20493</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19513</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20986</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>21660</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>20296</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
