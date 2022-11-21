@@ -8,6 +8,12 @@ from urllib.parse import urlencode
 import webbrowser
 import uiautomation as auto
 import time
+import platform
+import os
+import win32com.client as pywin32
+
+system = platform.system()
+
 
 '''This section has some base arguments custom functions/decorators that are generic and can be applied to other codes'''
 
@@ -72,6 +78,15 @@ class Authorisations():
         self.AUTH_URL = 'https://accounts.spotify.com/api/token'
         self.TOKEN_URL = 'https://accounts.spotify.com/api/token'
         self.callback_uri = 'https://oauth.pstmn.io/v1/browser-callback'
+        self.chrome_path = "C:/ProgramData\Microsoft\Windows\Start Menu\Programs\Google Chrome.lnk"
+        # self.chrome_path = shell.CreateShortCut(self.chrome_path).Targetpath
+        if system == "Linux":
+            print([os.path.realpath(item) for item in os.listdir('.')])
+        elif system == "Windows":
+            shell = pywin32.Dispatch("WScript.Shell")
+            self.chrome_path = shell.CreateShortCut(self.chrome_path).Targetpath
+            self.chrome_path = self.chrome_path.replace('\\','/') + " %s"
+            print(self.chrome_path)
 
     '''POST request for client details, this is a low level API token that allows the searching of songs on spotify'''
     def search_song_auth(self):
@@ -103,8 +118,8 @@ class Authorisations():
             'scope': "playlist-modify-public playlist-read-private playlist-modify-private",
         }
 
-        chrome_path = "C:/Program Files/Google/Chrome/Application/chrome.exe %s"
-        webbrowser.get(chrome_path).open("https://accounts.spotify.com/authorize?" + urlencode(auth_code_headers))
+        # chrome_path = "C:/Program Files/Google/Chrome/Application/chrome.exe %s"
+        webbrowser.get(self.chrome_path).open("https://accounts.spotify.com/authorize?" + urlencode(auth_code_headers))
 
         time.sleep(1.5)
         control = auto.GetFocusedControl()
@@ -141,11 +156,6 @@ class Authorisations():
 
 class SpotifyClient():
     def __init__(self):
-        self.token_path = "creds/token.txt"
-        f = open(self.token_path, "r")
-        lines = f.readlines()
-        f.close()
-        self.api_token= lines[0].strip()
         self.search_endpoint = "https://api.spotify.com/v1/search?"
         self.playlist_endpoint = "https://api.spotify.com/v1/playlists"
         self.playlist_id = "0PQqePki0O3ct1gs5iptjM" #go to desired playlist in spotify, this is the string at the end of the url
