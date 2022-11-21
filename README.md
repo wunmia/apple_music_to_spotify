@@ -4,6 +4,7 @@ Hi all this is a script transfers songs from itunes to spotify
 
 For this script you will need to have:
 
+- currently you will need to have windows
 - a songs file labelled "library.xml" from your itunes, this can be done by opening itunes --> file --> library -->export playlist -->"library.xml"
   - i have added a sample xml if you don't have itunes   
 - a spotify developer account (free) - https://developer.spotify.com/dashboard/login, create and app, create (or take the default) callback url and client id and secret
